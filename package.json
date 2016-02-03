@@ -1,0 +1,15 @@
+{
+  "name": "thisthat",
+  "version": "0.0.1",
+  "description": "tween anything",
+  "main": "thisthat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0"
+  }
+}
